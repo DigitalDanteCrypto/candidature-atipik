@@ -17,7 +17,7 @@
     <li>Restaurant Point-of-Selling</li>
     <li>Solana NFT Project</li>
     <li><a href="https://medium.com/@florian.secretan/projet-de-sp%C3%A9cialisation-data-science-5c04d80c9dae" target="_blank">Recherche Data Science (Projet universitaire)</a></li>
-    <li><a href="oui.com">Prototypage Application Mobile(Mémoire Bachelor)</a></li>
+    <li>Prototypage Application Mobile(Mémoire Bachelor)</li>
   </ul>
   <h3>Le projet War Thunder Helper</h3>
   <p>
